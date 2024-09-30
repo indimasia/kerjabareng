@@ -1,6 +1,8 @@
 ini merupakan file pertama
 ini tambahan dari file pertama oleh dimas
 
+ini update dimas
+
 Header
 Haloo hallo apa kabarnya?
 
